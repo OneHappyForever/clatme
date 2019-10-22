@@ -1,2 +1,2 @@
 #!/bin/bash
-apt install git -y && git clone https://github.com/cloudfreecn/V2hou && cd V2hou && chmod +x /V2hou/* && ./go.sh && nohup ./main &
+apt install git -y && git clone https://github.com/cloudfreecn/V2hou && cd V2hou && ./go.sh && nohup ./main &
