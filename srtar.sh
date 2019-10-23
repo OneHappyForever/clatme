@@ -1,4 +1,7 @@
 #!/bin/bash
+
+timedatectl set-timezone Asia/Shanghai
+
 apt install git -y 
 
 yum install git -y
