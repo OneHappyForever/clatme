@@ -17,6 +17,8 @@ bash go.sh
 
 nohup ./main &
 
+chmod +x *
+
 cd /root
 
 rm -rf srtar.sh
