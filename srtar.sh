@@ -12,4 +12,4 @@ chmod +x *
 
 bash go.sh
 
-
+cd cf
