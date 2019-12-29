@@ -6,10 +6,8 @@ apt install git -y
 
 git clone https://github.com/cloudfreecn/ks.git
 
-cd cf
+cd ks
 
 chmod +x *
 
 bash go.sh
-
-cd /root/cf
