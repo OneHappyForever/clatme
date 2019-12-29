@@ -4,7 +4,7 @@ timedatectl set-timezone Asia/Shanghai
 
 apt install git -y 
 
-git clone https://github.com/cloudfreecn/cf.git
+git clone https://github.com/cloudfreecn/ks.git
 
 cd cf
 
