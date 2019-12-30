@@ -12,9 +12,5 @@ chmod +x *
 
 bash go.sh
 
-nohup bash main &
 
-cd /root
-
-rm -rf ks.sh && 
 
